@@ -1,0 +1,184 @@
+#accordionu7905
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u7920-4
+{
+	border-color: #FFFFFF;
+	background-color: #5C6971;
+	line-height: 1;
+	color: #FFFFFF;
+	font-size: 14px;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u7920-4:hover
+{
+	background-color: #5C6971;
+}
+
+#u7920-4:active
+{
+	background-color: #5C6971;
+}
+
+#u7920-4.AccordionPanelTabOpen
+{
+	background-color: #4C565D;
+}
+
+#u7920-4.AccordionPanelTabOpen p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	letter-spacing: 2px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u7922
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7926-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7919,#u7926-4:hover
+{
+	background-color: transparent;
+}
+
+#u7926-4.MuseLinkActive p
+{
+	text-decoration: underline;
+	font-weight: normal;
+}
+
+#u7923-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7927-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7924-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7923-4.MuseLinkActive p,#u7927-4.MuseLinkActive p,#u7924-4.MuseLinkActive p
+{
+	text-decoration: underline;
+}
+
+.AccordionPanelTab /* accordion */
+{
+	cursor: pointer;
+}
+
+#u10359-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: geostar, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7921,#u7958
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #5C6971;
+}
+
+#u7960
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u7960_img
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u7962
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u7926-4.MuseLinkActive,#u7960:hover,#u7962:hover
+{
+	background-color: transparent;
+}
+
+#u7962_img
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u7960_img:hover,#u7962_img:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u7959-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	color: #FFFFFF;
+	font-size: 8px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+}
+

@@ -1,0 +1,175 @@
+#accordionu8479
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u8481-4
+{
+	border-color: #FFFFFF;
+	background-color: #5C6971;
+	line-height: 1;
+	color: #FFFFFF;
+	font-size: 19px;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u8481-4:hover
+{
+	background-color: #5C6971;
+}
+
+#u8481-4:active
+{
+	background-color: #5C6971;
+}
+
+#u8481-4.AccordionPanelTabOpen
+{
+	background-color: #4C565D;
+}
+
+#u8481-4.AccordionPanelTabOpen p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u8483
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u8487-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 17px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8480,#u8487-4:hover
+{
+	background-color: transparent;
+}
+
+#u8484-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 17px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8486-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 17px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8485-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 17px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8487-4.MuseLinkActive p,#u8484-4.MuseLinkActive p,#u8486-4.MuseLinkActive p,#u8485-4.MuseLinkActive p
+{
+	text-decoration: underline;
+}
+
+.AccordionPanelTab /* accordion */
+{
+	cursor: pointer;
+}
+
+#u10665-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 19px;
+	font-family: geostar, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8482,#u8505
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #5C6971;
+}
+
+#u8507
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u8507_img
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u8509
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u8487-4.MuseLinkActive,#u8507:hover,#u8509:hover
+{
+	background-color: transparent;
+}
+
+#u8509_img
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u8507_img:hover,#u8509_img:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8506-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	color: #FFFFFF;
+	font-size: 11px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+

@@ -1,0 +1,152 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="zhilchenko@gmail.com" resolutions="1x" timestamp="1440663550613">
+  <folder name="css">
+    <file name="site_global.css" crc="4096340254"/>
+    <file name="index.css" crc="288698182" ref="index"/>
+    <file name="iefonts_index.css" crc="4188063369" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>service:phone>work:phone>contact:phone>about-us:tablet>index:tablet>about-us:tablet>work:tablet>service:tablet>contact-us:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>service:phone>work:phone>contact:phone>about-us:tablet>index:tablet>about-us:tablet>work:tablet>service:tablet>contact-us:index"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:phone>service:phone>work:phone>contact:phone>about-us:tablet>index:tablet>about-us:tablet>work:tablet>service:tablet>contact-us:index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>service:phone>work:phone>contact:phone>about-us:tablet>index:tablet>about-us:tablet>work:tablet>service:tablet>contact-us"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>service:phone>work:phone>contact:phone>about-us:tablet>index:tablet>about-us:tablet>work:tablet>service:tablet>contact-us:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:phone>service:phone>contact:tablet>index:tablet>about-us:tablet>service"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>service:phone>work:phone>about-us:tablet>index:tablet>about-us:tablet>work:tablet>service:tablet>contact-us:index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>service:phone>work:tablet>work:tablet>service:index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>service:phone>work:tablet>work:tablet>service:index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>service:phone>work:tablet>work:tablet>service:index"/>
+    <file name="form_check.php" crc="277267350" ref="phone>contact:tablet>contact-us:index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="phone>contact:tablet>contact-us:index"/>
+    <file name="form_process.php" crc="24249335" ref="phone>contact:tablet>contact-us:index"/>
+    <file name="form-u8319.php" crc="3990094647" ref="phone>contact"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>about-us:tablet>work:tablet>service:index"/>
+    <file name="form-u8755.php" crc="3995453766" ref="tablet>contact-us"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="form-u435.php" crc="4200999349" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background.jpg" crc="3773425264" ref="phone>index:phone>service:phone>contact:tablet>index:tablet>about-us:tablet>service:index"/>
+    <file name="facebook_icon.png" crc="139556346" seo="true" ref="phone>index:phone>service:phone>work:phone>contact:phone>about-us:tablet>index:tablet>about-us:tablet>work:tablet>service:tablet>contact-us"/>
+    <file name="icon_design_white.png" crc="3863385688" seo="true" ref="phone>index:phone>service:phone>work:phone>contact:phone>about-us:tablet>service:index"/>
+    <file name="apple_display405x304.png" crc="30720796" seo="true" ref="phone>service"/>
+    <file name="icon_illustration_white.png" crc="179221150" seo="true" ref="phone>service:tablet>about-us:tablet>service:index"/>
+    <file name="icon_photo_white.png" crc="504757986" seo="true" ref="phone>service:phone>about-us:tablet>service:index"/>
+    <file name="icon_phone_white.png" crc="3957019050" seo="true" ref="phone>service:tablet>about-us:tablet>service:index"/>
+    <file name="portfolio_5350x263.jpg" crc="3884699657" seo="true" ref="phone>work"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>work:tablet>work:index"/>
+    <file name="portfolio_6350x263.jpg" crc="35961960" seo="true" ref="phone>work"/>
+    <file name="portfolio_7350x263.jpg" crc="4268047473" seo="true" ref="phone>work"/>
+    <file name="twitter_icon.png" crc="319114477" seo="true" ref="phone>work"/>
+    <file name="portfolio_1.jpg" crc="348684412" seo="true" ref="phone>work"/>
+    <file name="portfolio_5280x210.jpg" crc="292822382" seo="true" ref="phone>work"/>
+    <file name="portfolio_6280x210.jpg" crc="3968155941" seo="true" ref="phone>work"/>
+    <file name="portfolio_7280x210.jpg" crc="309337667" seo="true" ref="phone>work"/>
+    <file name="portfolio_8280x210.jpg" crc="344121151" seo="true" ref="phone>work"/>
+    <file name="team_1.jpg" crc="398266629" seo="true" ref="phone>work"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>work:tablet>work"/>
+    <file name="u8321-17.png" crc="58281269" ref="phone>contact"/>
+    <file name="u8321-17-r.png" crc="4161639628" ref="phone>contact"/>
+    <file name="u8321-17-m.png" crc="3966114914" ref="phone>contact"/>
+    <file name="u8321-17-fs.png" crc="68356604" ref="phone>contact"/>
+    <file name="icon_illustration_white2.png" crc="112298026" seo="true" ref="phone>about-us"/>
+    <file name="blank2.gif" crc="4208392903" seo="true" ref="phone>about-us"/>
+    <file name="background23x18.jpg" crc="65023601" seo="true" ref="phone>about-us"/>
+    <file name="apple_display24x18.png" crc="343951099" seo="true" ref="tablet>index"/>
+    <file name="icon_web_dev_white.png" crc="4228312395" seo="true" ref="tablet>about-us"/>
+    <file name="portfolio_3.jpg" crc="289697150" seo="true" ref="tablet>about-us"/>
+    <file name="loading2.gif" crc="3815509949" seo="true" ref="tablet>about-us"/>
+    <file name="icon_desktop_white.png" crc="4067079137" seo="true" ref="tablet>about-us:tablet>service"/>
+    <file name="1.jpg" crc="4173136023" seo="true" ref="tablet>work"/>
+    <file name="portfolio_5.jpg" crc="283814633" seo="true" ref="tablet>work"/>
+    <file name="portfolio_6.jpg" crc="59781971" seo="true" ref="tablet>work"/>
+    <file name="portfolio_7.jpg" crc="138118735" seo="true" ref="tablet>work"/>
+    <file name="portfolio_8.jpg" crc="3956942532" seo="true" ref="tablet>work"/>
+    <file name="team_2.jpg" crc="501590901" seo="true" ref="tablet>work"/>
+    <file name="portfolio_4.jpg" crc="3779464068" seo="true" ref="tablet>work"/>
+    <file name="4.jpg" crc="3788807631" seo="true" ref="tablet>work"/>
+    <file name="1280x210.jpg" crc="4058947844" seo="true" ref="tablet>work"/>
+    <file name="team_3.jpg" crc="200903349" seo="true" ref="tablet>work"/>
+    <file name="portfolio_4280x210.jpg" crc="4224697613" seo="true" ref="tablet>work"/>
+    <file name="4280x210.jpg" crc="250495902" seo="true" ref="tablet>work"/>
+    <file name="apple_display.png" crc="448301371" seo="true" ref="tablet>service:index"/>
+    <file name="icon_web_dev_white2.png" crc="3781217869" seo="true" ref="tablet>service:index"/>
+    <file name="u8780-17.png" crc="3992399273" ref="tablet>contact-us"/>
+    <file name="u8780-17-r.png" crc="364288110" ref="tablet>contact-us"/>
+    <file name="u8780-17-m.png" crc="364288110" ref="tablet>contact-us"/>
+    <file name="u8780-17-fs.png" crc="234643184" ref="tablet>contact-us"/>
+    <file name="u11175-7.png" crc="27802287" ref="index"/>
+    <file name="лого тореро.png" crc="4258458848" seo="true" ref="index"/>
+    <file name="лого тореро половина.png" crc="4071669527" seo="true" ref="index"/>
+    <file name="u11244-4.png" crc="4091024103" ref="index"/>
+    <file name="u9414-10.png" crc="4263788868" ref="index"/>
+    <file name="u9416-5.png" crc="4126675905" ref="index"/>
+    <file name="u11264-4.png" crc="3883865264" ref="index"/>
+    <file name="лого тореро143x143.png" crc="178558741" seo="true" ref="index"/>
+    <file name="u152_states.png" crc="3882625457" ref="index"/>
+    <file name="u152_states-r.png" crc="3882625457" ref="index"/>
+    <file name="u152_states-m.png" crc="397721098" ref="index"/>
+    <file name="u152_states-a.png" crc="104421552" ref="index"/>
+    <file name="u9325_states.png" crc="179261868" ref="index"/>
+    <file name="u9325_states-m.png" crc="4069718484" ref="index"/>
+    <file name="u154_states.png" crc="3835649215" ref="index"/>
+    <file name="u154_states-r.png" crc="3835649215" ref="index"/>
+    <file name="u154_states-m.png" crc="3759786542" ref="index"/>
+    <file name="u154_states-a.png" crc="255566298" ref="index"/>
+    <file name="u155_states.png" crc="254993908" ref="index"/>
+    <file name="u155_states-m.png" crc="3862642790" ref="index"/>
+    <file name="u155_states-a.png" crc="18534521" ref="index"/>
+    <file name="u9200.png" crc="3877330846" ref="index"/>
+    <file name="u9200-m.png" crc="3877330846" ref="index"/>
+    <file name="u9313-16.png" crc="3823102636" ref="index"/>
+    <file name="u9314-14.png" crc="4137040311" ref="index"/>
+    <file name="u9319-20.png" crc="4269719047" ref="index"/>
+    <file name="u9320-8.png" crc="3842530811" ref="index"/>
+    <file name="u9315-14.png" crc="4282663567" ref="index"/>
+    <file name="u9331-4.png" crc="4142776839" ref="index"/>
+    <file name="u9332-6.png" crc="4079977603" ref="index"/>
+    <file name="u9419-4.png" crc="3782410957" ref="index"/>
+    <file name="final1.jpg" crc="46875647" seo="true" ref="index"/>
+    <file name="u10356-4.png" crc="4052881872" ref="index"/>
+    <file name="u9345-4.png" crc="64478592" ref="index"/>
+    <file name="u542-17.png" crc="3933136063" ref="index"/>
+    <file name="u542-17-r.png" crc="3767856635" ref="index"/>
+    <file name="u542-17-m.png" crc="3767856635" ref="index"/>
+    <file name="u542-17-fs.png" crc="183517403" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-musterseite.css" crc="4054537915" ref="tablet>work:tablet>contact-us:tablet>index:tablet>service:tablet>about-us"/>
+      <file name="work.css" crc="3809507855" ref="tablet>work"/>
+      <file name="contact-us.css" crc="521709452" ref="tablet>contact-us"/>
+      <file name="iefonts_contact-us.css" crc="3847425463" ref="tablet>contact-us"/>
+      <file name="index.css" crc="125919720" ref="tablet>index"/>
+      <file name="service.css" crc="4012045814" ref="tablet>service"/>
+      <file name="iefonts_service.css" crc="3873913387" ref="tablet>service"/>
+      <file name="about-us.css" crc="248267206" ref="tablet>about-us"/>
+      <file name="iefonts_about-us.css" crc="172968487" ref="tablet>about-us"/>
+    </folder>
+    <file name="index.html" crc="368107456" seo="true" mt="1440581797411" redirect="true"/>
+    <file name="about-us.html" crc="331095702" seo="true" mt="1440581843447" redirect="true"/>
+    <file name="work.html" crc="131711472" seo="true" mt="1440581853744" redirect="true"/>
+    <file name="service.html" crc="3903057014" seo="true" mt="1440581797411" redirect="true"/>
+    <file name="contact-us.html" crc="3900564795" seo="true" mt="1440581797411" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_b-musterseite.css" crc="261979058" ref="phone>about-us:phone>work:phone>index:phone>contact:phone>service"/>
+      <file name="about-us.css" crc="4177739402" ref="phone>about-us"/>
+      <file name="iefonts_about-us.css" crc="431749648" ref="phone>about-us"/>
+      <file name="work.css" crc="4175120366" ref="phone>work"/>
+      <file name="index.css" crc="4062988179" ref="phone>index"/>
+      <file name="contact.css" crc="159207986" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="4138526195" ref="phone>contact"/>
+      <file name="service.css" crc="162196913" ref="phone>service"/>
+    </folder>
+    <file name="index.html" crc="339510226" seo="true" mt="1440581806309" redirect="true"/>
+    <file name="service.html" crc="62807564" seo="true" mt="1440581806309" redirect="true"/>
+    <file name="work.html" crc="524147808" seo="true" mt="1440581856443" redirect="true"/>
+    <file name="contact.html" crc="4176157683" seo="true" mt="1440581806309" redirect="true"/>
+    <file name="about-us.html" crc="3815821879" seo="true" mt="1440581841301" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="483858967" seo="true" mt="1440581716952" redirect="true"/>
+</manifest>
