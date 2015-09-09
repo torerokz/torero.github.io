@@ -1,7 +1,7 @@
 .version.service /* version checker */
 {
-	color: #0000EF;
-	background-color: #22F5F6;
+	color: #0000F8;
+	background-color: #F7BDFF;
 }
 
 @-ms-viewport
@@ -212,7 +212,7 @@
 	border-style: solid;
 	border-color: #000000;
 	padding: 36px 20px 39px 18px;
-	background: #FFFFFF url("../../images/background.jpg") no-repeat center center;
+	background: #FFFFFF url("../../images/background2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -233,10 +233,10 @@
 	width: 728px;
 	min-height: 49px;
 	background-color: transparent;
-	color: #FFFFFF;
 	font-size: 40px;
-	letter-spacing: -1px;
 	text-align: center;
+	letter-spacing: -1px;
+	color: #FFFFFF;
 	font-family: geostar, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -265,10 +265,10 @@
 	min-height: 49px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 27px;
-	letter-spacing: -1px;
 	line-height: 1;
 	text-align: center;
+	font-size: 27px;
+	letter-spacing: -1px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -596,8 +596,8 @@
 	min-height: 102px;
 	background-color: transparent;
 	color: #5C6971;
-	font-size: 14px;
 	text-align: center;
+	font-size: 14px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 19px;
@@ -634,8 +634,8 @@
 	min-height: 94px;
 	background-color: transparent;
 	color: #5C6971;
-	font-size: 14px;
 	text-align: center;
+	font-size: 14px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 28px;
@@ -671,8 +671,8 @@
 	min-height: 74px;
 	background-color: transparent;
 	color: #5C6971;
-	font-size: 14px;
 	text-align: center;
+	font-size: 14px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 27px;

@@ -1,7 +1,7 @@
 .version.work /* version checker */
 {
-	color: #0000E3;
-	background-color: #107A0F;
+	color: #0000F8;
+	background-color: #1F6568;
 }
 
 @-ms-viewport
@@ -231,10 +231,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #5C6971;
-	font-size: 26px;
-	letter-spacing: -1px;
 	line-height: 1;
 	text-align: center;
+	font-size: 26px;
+	letter-spacing: -1px;
 	font-family: geostar, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -581,8 +581,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 321px;
 	left: 54px;
@@ -600,8 +600,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 321px;
 	left: 685px;
@@ -652,8 +652,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -668,7 +668,7 @@
 
 .SSSlideLoading /* slideshowFreeStyle */
 {
-	background: url("../../images/loading.gif") no-repeat center center;
+	background: url("../../images/loading2.gif") no-repeat center center;
 }
 
 #u8505

@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #00000E;
-	background-color: #CC41C6;
+	color: #000013;
+	background-color: #99B225;
 }
 
 @-ms-viewport
@@ -205,7 +205,7 @@
 	min-height: 136px;
 	border-color: #000000;
 	padding-bottom: 27px;
-	background: #FFFFFF url("../../images/background.jpg") no-repeat center center;
+	background: #FFFFFF url("../../images/background2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -227,10 +227,10 @@
 	width: 768px;
 	min-height: 49px;
 	background-color: transparent;
-	color: #FFFFFF;
 	font-size: 40px;
-	letter-spacing: -1px;
 	text-align: center;
+	letter-spacing: -1px;
+	color: #FFFFFF;
 	font-family: geostar, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -244,10 +244,10 @@
 	min-height: 49px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 27px;
-	letter-spacing: -1px;
 	line-height: 1;
 	text-align: center;
+	font-size: 27px;
+	letter-spacing: -1px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -312,11 +312,11 @@
 	width: 200px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 1;
-	color: #4C565D;
-	font-size: 25px;
-	letter-spacing: 1px;
 	text-align: center;
+	font-size: 25px;
+	color: #4C565D;
+	line-height: 1;
+	letter-spacing: 1px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 18px;
@@ -341,10 +341,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #5C6971;
-	font-size: 16px;
-	letter-spacing: 1px;
 	text-align: center;
+	font-size: 16px;
+	color: #5C6971;
+	letter-spacing: 1px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 11px;
@@ -408,9 +408,9 @@
 	width: 200px;
 	min-height: 159px;
 	background-color: transparent;
-	color: #5C6971;
 	font-size: 13px;
 	text-align: center;
+	color: #5C6971;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 28px;
@@ -450,11 +450,11 @@
 	width: 200px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 1;
-	color: #4C565D;
-	font-size: 25px;
-	letter-spacing: 1px;
 	text-align: center;
+	font-size: 25px;
+	color: #4C565D;
+	line-height: 1;
+	letter-spacing: 1px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 18px;
@@ -479,10 +479,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #5C6971;
-	font-size: 16px;
-	letter-spacing: 1px;
 	text-align: center;
+	font-size: 16px;
+	color: #5C6971;
+	letter-spacing: 1px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 11px;
@@ -546,9 +546,9 @@
 	width: 200px;
 	min-height: 159px;
 	background-color: transparent;
-	color: #5C6971;
 	font-size: 13px;
 	text-align: center;
+	color: #5C6971;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 28px;
@@ -593,11 +593,11 @@
 	width: 200px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 1;
-	color: #4C565D;
-	font-size: 25px;
-	letter-spacing: 1px;
 	text-align: center;
+	font-size: 25px;
+	color: #4C565D;
+	line-height: 1;
+	letter-spacing: 1px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 18px;
@@ -622,10 +622,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #5C6971;
-	font-size: 16px;
-	letter-spacing: 1px;
 	text-align: center;
+	font-size: 16px;
+	color: #5C6971;
+	letter-spacing: 1px;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 11px;
@@ -704,9 +704,9 @@
 	width: 200px;
 	min-height: 159px;
 	background-color: transparent;
-	color: #5C6971;
 	font-size: 13px;
 	text-align: center;
+	color: #5C6971;
 	font-family: pt-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 28px;
